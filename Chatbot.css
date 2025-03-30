@@ -1,0 +1,119 @@
+/* Apply a tech-inspired background to the entire page */
+body {
+    margin: 0;
+    padding: 0;
+    background: url('https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D') no-repeat center center fixed;
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto', Arial, sans-serif;
+    color: #e0e0e0; /* Light text color for readability on dark background */
+}
+
+/* Style the App container */
+.App {
+    text-align: center;
+    padding: 20px;
+    font-family: 'Roboto', Arial, sans-serif;
+    width: 100%;
+    max-width: 600px;
+}
+
+/* Update the h1 to match the tech theme */
+h1 {
+    color: #0015ff; /* Neon cyan */
+    text-shadow: 0 0 5px rgba(0, 212, 255, 0.5);
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+/* Style the chat container with transparency */
+.chat-container {
+    background-color: rgba(20, 25, 35, 0.6); /* More transparent (60% opacity) */
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    max-height: 70vh;
+    overflow-y: auto;
+    border: 1px solid #00d4ff; /* Neon cyan border */
+}
+
+/* Style the messages */
+.message {
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 8px;
+    max-width: 80%;
+    word-wrap: break-word;
+    text-shadow: 0 0 2px rgba(0, 0, 0, 0.5); /* Add text shadow for better readability */
+}
+
+.message.user {
+    background-color: #00d4ff; /* Neon cyan for user messages */
+    color: #1a1a1a;
+    margin-left: auto;
+    text-align: right;
+}
+
+.message.bot {
+    background-color: rgba(42, 47, 69, 0.8); /* Slightly transparent bot message background */
+    color: #e0e0e0;
+    margin-right: auto;
+    text-align: left;
+    border-left: 3px solid #ff007a; /* Neon pink accent */
+}
+
+/* Style the comparison title */
+.comparison-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #416980; /* Neon cyan for the title */
+    text-shadow: 0 0 3px rgba(95, 107, 110, 0.5);
+    margin: 10px 0;
+}
+
+/* Style the comparison list */
+.comparison-list {
+    list-style-type: none; /* Remove default bullets */
+    padding: 0;
+    margin: 10px 0;
+    color: #2a2828;
+}
+
+.comparison-list li {
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent background for each item */
+    padding: 10px;
+    margin-bottom: 8px;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    line-height: 1.5;
+    border-left: 3px solid #ff007a; /* Neon pink border for each item */
+}
+
+/* Style the options buttons */
+.options {
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+
+.options button {
+    padding: 8px 16px;
+    background-color: #2a2f45;
+    color: #00d4ff;
+    border: 1px solid #00d4ff;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: all 0.3s ease;
+}
+
+.options button:hover {
+    background-color: #00d4ff;
+    color: #1a1a1a;
+    box-shadow: 0 0 8px rgba(0, 212, 255, 0.5);
+}

@@ -1,0 +1,501 @@
+ID,Product Name,Category,Brand,Specifications,Price,Features,User Reviews,Popularity Score
+1,Xiaomi Smartphone 50,Smartphone,Xiaomi,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",2159,"5G Connectivity, Super AMOLED Display",Battery could be better.,76
+2,Samsung Smartphone 1,Smartphone,Samsung,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",2267,"Fast Charging, High Battery Life",Amazing performance!,70
+3,OnePlus Smartphone 2,Smartphone,OnePlus,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",1031,"Wireless, Noise Cancelling",Good value for money.,89
+4,Samsung Smartphone 3,Smartphone,Samsung,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",1107,"Wireless, Noise Cancelling",Good value for money.,90
+5,Xiaomi Smartphone 4,Smartphone,Xiaomi,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",935,"Waterproof, Super AMOLED Display","High quality, but expensive.",84
+6,Xiaomi Smartphone 5,Smartphone,Xiaomi,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",788,"Waterproof, Super AMOLED Display",Amazing performance!,76
+7,OnePlus Smartphone 6,Smartphone,OnePlus,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",1948,"Lightweight, Noise Cancelling",Good value for money.,71
+8,Apple Smartphone 7,Smartphone,Apple,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",1401,"5G Connectivity, Super AMOLED Display",Amazing performance!,81
+9,Apple Smartphone 8,Smartphone,Apple,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",644,"Wireless, Noise Cancelling",Battery could be better.,78
+10,Apple Smartphone 9,Smartphone,Apple,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",1493,"5G Connectivity, Super AMOLED Display",Amazing performance!,98
+11,Xiaomi Smartphone 10,Smartphone,Xiaomi,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",315,"Wireless, Noise Cancelling",Battery could be better.,73
+12,Apple Smartphone 11,Smartphone,Apple,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",921,"Wireless, Noise Cancelling",Amazing performance!,81
+13,Apple Smartphone 12,Smartphone,Apple,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",1130,"5G Connectivity, Super AMOLED Display","High quality, but expensive.",95
+14,OnePlus Smartphone 13,Smartphone,OnePlus,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",605,"Lightweight, Noise Cancelling","High quality, but expensive.",74
+15,Apple Smartphone 14,Smartphone,Apple,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",466,"5G Connectivity, Super AMOLED Display",Amazing performance!,90
+16,Apple Smartphone 15,Smartphone,Apple,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",1099,"Lightweight, Noise Cancelling",Amazing performance!,84
+17,Xiaomi Smartphone 16,Smartphone,Xiaomi,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",902,"Wireless, Noise Cancelling",Amazing performance!,70
+18,Samsung Smartphone 17,Smartphone,Samsung,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",386,"Wireless, Noise Cancelling",Battery could be better.,91
+19,OnePlus Smartphone 18,Smartphone,OnePlus,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",1338,"Waterproof, Super AMOLED Display","High quality, but expensive.",91
+20,OnePlus Smartphone 19,Smartphone,OnePlus,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",1975,"Lightweight, Noise Cancelling",Amazing performance!,87
+21,OnePlus Smartphone 20,Smartphone,OnePlus,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",630,"Fast Charging, High Battery Life","High quality, but expensive.",74
+22,Xiaomi Smartphone 21,Smartphone,Xiaomi,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",2187,"Fast Charging, High Battery Life","High quality, but expensive.",73
+23,Samsung Smartphone 22,Smartphone,Samsung,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",878,"Lightweight, Noise Cancelling",Battery could be better.,91
+24,Xiaomi Smartphone 23,Smartphone,Xiaomi,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",1026,"Waterproof, Super AMOLED Display",Amazing performance!,73
+25,Samsung Smartphone 24,Smartphone,Samsung,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",548,"Waterproof, Super AMOLED Display",Good value for money.,80
+26,Samsung Smartphone 25,Smartphone,Samsung,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",2299,"5G Connectivity, Super AMOLED Display",Battery could be better.,81
+27,Apple Smartphone 26,Smartphone,Apple,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",717,"Lightweight, Noise Cancelling",Battery could be better.,70
+28,Apple Smartphone 27,Smartphone,Apple,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",1759,"Lightweight, Noise Cancelling","High quality, but expensive.",77
+29,Apple Smartphone 28,Smartphone,Apple,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",1151,"Fast Charging, High Battery Life",Amazing performance!,86
+30,Xiaomi Smartphone 29,Smartphone,Xiaomi,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",452,"Wireless, Noise Cancelling",Good value for money.,97
+31,Apple Smartphone 30,Smartphone,Apple,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",333,"Waterproof, Super AMOLED Display",Good value for money.,96
+32,Apple Smartphone 31,Smartphone,Apple,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",780,"Lightweight, Noise Cancelling",Amazing performance!,74
+33,Apple Smartphone 32,Smartphone,Apple,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",662,"Lightweight, Noise Cancelling",Battery could be better.,71
+34,OnePlus Smartphone 33,Smartphone,OnePlus,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",1304,"Lightweight, Noise Cancelling",Good value for money.,87
+35,Apple Smartphone 34,Smartphone,Apple,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",416,"Fast Charging, High Battery Life",Battery could be better.,88
+36,Apple Smartphone 35,Smartphone,Apple,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",1981,"Wireless, Noise Cancelling",Good value for money.,71
+37,OnePlus Smartphone 36,Smartphone,OnePlus,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",578,"Wireless, Noise Cancelling",Amazing performance!,82
+38,Samsung Smartphone 37,Smartphone,Samsung,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",1385,"Fast Charging, High Battery Life",Battery could be better.,89
+39,Samsung Smartphone 38,Smartphone,Samsung,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",1200,"Waterproof, Super AMOLED Display","High quality, but expensive.",73
+40,OnePlus Smartphone 39,Smartphone,OnePlus,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",1337,"Wireless, Noise Cancelling",Amazing performance!,90
+41,Xiaomi Smartphone 40,Smartphone,Xiaomi,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",2397,"Lightweight, Noise Cancelling","High quality, but expensive.",73
+42,Apple Smartphone 41,Smartphone,Apple,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",1085,"Lightweight, Noise Cancelling",Good value for money.,90
+43,Xiaomi Smartphone 42,Smartphone,Xiaomi,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",2249,"Lightweight, Noise Cancelling","High quality, but expensive.",85
+44,Apple Smartphone 43,Smartphone,Apple,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",449,"Fast Charging, High Battery Life",Amazing performance!,72
+45,Samsung Smartphone 44,Smartphone,Samsung,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",528,"Wireless, Noise Cancelling",Battery could be better.,72
+46,Xiaomi Smartphone 45,Smartphone,Xiaomi,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",1902,"Lightweight, Noise Cancelling",Amazing performance!,77
+47,Apple Smartphone 46,Smartphone,Apple,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",1909,"Waterproof, Super AMOLED Display","High quality, but expensive.",78
+48,OnePlus Smartphone 47,Smartphone,OnePlus,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",616,"5G Connectivity, Super AMOLED Display",Battery could be better.,95
+49,Apple Smartphone 48,Smartphone,Apple,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",917,"Fast Charging, High Battery Life",Good value for money.,91
+50,Xiaomi Smartphone 49,Smartphone,Xiaomi,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",1671,"Lightweight, Noise Cancelling",Good value for money.,75
+51,OnePlus Smartphone 50,Smartphone,OnePlus,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",798,"Fast Charging, High Battery Life",Battery could be better.,80
+52,OnePlus Smartphone 1,Smartphone,OnePlus,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",1905,"Waterproof, Super AMOLED Display",Battery could be better.,72
+53,Samsung Smartphone 2,Smartphone,Samsung,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",788,"Lightweight, Noise Cancelling",Amazing performance!,95
+54,Xiaomi Smartphone 3,Smartphone,Xiaomi,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",903,"Lightweight, Noise Cancelling","High quality, but expensive.",81
+55,Xiaomi Smartphone 4,Smartphone,Xiaomi,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",1621,"Wireless, Noise Cancelling",Battery could be better.,81
+56,Xiaomi Smartphone 5,Smartphone,Xiaomi,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",386,"Waterproof, Super AMOLED Display","High quality, but expensive.",73
+57,Apple Smartphone 6,Smartphone,Apple,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",340,"Fast Charging, High Battery Life",Good value for money.,70
+58,Samsung Smartphone 7,Smartphone,Samsung,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",708,"Wireless, Noise Cancelling",Amazing performance!,72
+59,OnePlus Smartphone 8,Smartphone,OnePlus,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",1064,"Lightweight, Noise Cancelling",Amazing performance!,70
+60,Xiaomi Smartphone 9,Smartphone,Xiaomi,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",565,"Wireless, Noise Cancelling","High quality, but expensive.",95
+61,Samsung Smartphone 10,Smartphone,Samsung,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",1129,"5G Connectivity, Super AMOLED Display","High quality, but expensive.",72
+62,Apple Smartphone 11,Smartphone,Apple,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",1629,"Waterproof, Super AMOLED Display",Good value for money.,80
+63,Xiaomi Smartphone 12,Smartphone,Xiaomi,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",992,"Lightweight, Noise Cancelling",Battery could be better.,98
+64,Apple Smartphone 13,Smartphone,Apple,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",366,"Lightweight, Noise Cancelling",Amazing performance!,93
+65,Apple Smartphone 14,Smartphone,Apple,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",1270,"Wireless, Noise Cancelling",Good value for money.,70
+66,Samsung Smartphone 15,Smartphone,Samsung,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",2080,"Fast Charging, High Battery Life","High quality, but expensive.",71
+67,Samsung Smartphone 16,Smartphone,Samsung,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",913,"5G Connectivity, Super AMOLED Display",Amazing performance!,83
+68,Samsung Smartphone 17,Smartphone,Samsung,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",1343,"Wireless, Noise Cancelling",Battery could be better.,80
+69,Samsung Smartphone 18,Smartphone,Samsung,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",1801,"Wireless, Noise Cancelling",Amazing performance!,70
+70,Xiaomi Smartphone 19,Smartphone,Xiaomi,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",1201,"Fast Charging, High Battery Life",Good value for money.,86
+71,Apple Smartphone 20,Smartphone,Apple,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",390,"Wireless, Noise Cancelling",Amazing performance!,78
+72,Samsung Smartphone 21,Smartphone,Samsung,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",981,"Waterproof, Super AMOLED Display",Good value for money.,99
+73,Apple Smartphone 22,Smartphone,Apple,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",2272,"Wireless, Noise Cancelling",Battery could be better.,73
+74,Samsung Smartphone 23,Smartphone,Samsung,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",2203,"5G Connectivity, Super AMOLED Display",Battery could be better.,95
+75,Xiaomi Smartphone 24,Smartphone,Xiaomi,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",377,"5G Connectivity, Super AMOLED Display","High quality, but expensive.",93
+76,Apple Smartphone 25,Smartphone,Apple,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",1135,"Waterproof, Super AMOLED Display",Good value for money.,76
+77,Apple Smartphone 26,Smartphone,Apple,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",2034,"Wireless, Noise Cancelling",Good value for money.,94
+78,OnePlus Smartphone 27,Smartphone,OnePlus,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",906,"Wireless, Noise Cancelling",Battery could be better.,86
+79,Xiaomi Smartphone 28,Smartphone,Xiaomi,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",1594,"5G Connectivity, Super AMOLED Display",Amazing performance!,85
+80,Apple Smartphone 29,Smartphone,Apple,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",2329,"Lightweight, Noise Cancelling",Amazing performance!,70
+81,OnePlus Smartphone 30,Smartphone,OnePlus,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",1317,"Lightweight, Noise Cancelling",Amazing performance!,85
+82,Samsung Smartphone 31,Smartphone,Samsung,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",1046,"Wireless, Noise Cancelling",Amazing performance!,76
+83,Samsung Smartphone 32,Smartphone,Samsung,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",1381,"5G Connectivity, Super AMOLED Display","High quality, but expensive.",82
+84,OnePlus Smartphone 33,Smartphone,OnePlus,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",1403,"Fast Charging, High Battery Life",Battery could be better.,83
+85,Xiaomi Smartphone 34,Smartphone,Xiaomi,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",553,"Wireless, Noise Cancelling",Amazing performance!,80
+86,Apple Smartphone 35,Smartphone,Apple,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",838,"Wireless, Noise Cancelling","High quality, but expensive.",78
+87,OnePlus Smartphone 36,Smartphone,OnePlus,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",533,"Fast Charging, High Battery Life","High quality, but expensive.",98
+88,OnePlus Smartphone 37,Smartphone,OnePlus,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",1293,"Fast Charging, High Battery Life",Amazing performance!,71
+89,OnePlus Smartphone 38,Smartphone,OnePlus,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",1340,"5G Connectivity, Super AMOLED Display","High quality, but expensive.",87
+90,OnePlus Smartphone 39,Smartphone,OnePlus,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",787,"5G Connectivity, Super AMOLED Display","High quality, but expensive.",93
+91,OnePlus Smartphone 40,Smartphone,OnePlus,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",501,"Wireless, Noise Cancelling","High quality, but expensive.",89
+92,OnePlus Smartphone 41,Smartphone,OnePlus,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",617,"5G Connectivity, Super AMOLED Display",Battery could be better.,87
+93,Xiaomi Smartphone 42,Smartphone,Xiaomi,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",1035,"Wireless, Noise Cancelling",Good value for money.,74
+94,Apple Smartphone 43,Smartphone,Apple,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",883,"Lightweight, Noise Cancelling","High quality, but expensive.",84
+95,OnePlus Smartphone 44,Smartphone,OnePlus,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",1441,"Waterproof, Super AMOLED Display",Amazing performance!,83
+96,Xiaomi Smartphone 45,Smartphone,Xiaomi,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",2371,"Wireless, Noise Cancelling",Good value for money.,96
+97,Samsung Smartphone 46,Smartphone,Samsung,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",2500,"Lightweight, Noise Cancelling","High quality, but expensive.",87
+98,Samsung Smartphone 47,Smartphone,Samsung,"Snapdragon 8 Gen 3, 12GB RAM, 256GB Storage, 5000mAh Battery",2114,"Wireless, Noise Cancelling",Good value for money.,78
+99,Samsung Smartphone 48,Smartphone,Samsung,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",1647,"5G Connectivity, Super AMOLED Display",Good value for money.,76
+100,Xiaomi Smartphone 49,Smartphone,Xiaomi,"Apple A17 Pro, 8GB RAM, 512GB Storage, 4500mAh Battery",647,"Fast Charging, High Battery Life",Battery could be better.,97
+101,Apple Laptop 50,Laptop,Apple,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",938,"Lightweight, Noise Cancelling",Amazing performance!,78
+102,Asus Laptop 1,Laptop,Asus,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",1001,"Wireless, Noise Cancelling","High quality, but expensive.",97
+103,Microsoft Laptop 2,Laptop,Microsoft,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",1625,"5G Connectivity, Super AMOLED Display",Good value for money.,88
+104,HP Laptop 3,Laptop,HP,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",757,"Lightweight, Noise Cancelling",Amazing performance!,95
+105,Microsoft Laptop 4,Laptop,Microsoft,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",1408,"5G Connectivity, Super AMOLED Display","High quality, but expensive.",94
+106,Microsoft Laptop 5,Laptop,Microsoft,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",1566,"5G Connectivity, Super AMOLED Display","High quality, but expensive.",70
+107,Apple Laptop 6,Laptop,Apple,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",719,"Lightweight, Noise Cancelling","High quality, but expensive.",83
+108,Apple Laptop 7,Laptop,Apple,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",1838,"Lightweight, Noise Cancelling","High quality, but expensive.",88
+109,Lenovo Laptop 8,Laptop,Lenovo,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",811,"Fast Charging, High Battery Life",Battery could be better.,92
+110,Asus Laptop 9,Laptop,Asus,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",2269,"Waterproof, Super AMOLED Display","High quality, but expensive.",97
+111,Apple Laptop 10,Laptop,Apple,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",2000,"Fast Charging, High Battery Life",Battery could be better.,87
+112,Asus Laptop 11,Laptop,Asus,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",2804,"Waterproof, Super AMOLED Display",Battery could be better.,97
+113,Apple Laptop 12,Laptop,Apple,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",869,"Fast Charging, High Battery Life","High quality, but expensive.",97
+114,Apple Laptop 13,Laptop,Apple,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",1660,"Waterproof, Super AMOLED Display",Good value for money.,81
+115,Apple Laptop 14,Laptop,Apple,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",1993,"Fast Charging, High Battery Life",Battery could be better.,70
+116,Lenovo Laptop 15,Laptop,Lenovo,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",1794,"Wireless, Noise Cancelling",Amazing performance!,89
+117,Apple Laptop 16,Laptop,Apple,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",2000,"Fast Charging, High Battery Life",Amazing performance!,97
+118,HP Laptop 17,Laptop,HP,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",2535,"Wireless, Noise Cancelling","High quality, but expensive.",99
+119,Apple Laptop 18,Laptop,Apple,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",2655,"5G Connectivity, Super AMOLED Display",Amazing performance!,81
+120,Lenovo Laptop 19,Laptop,Lenovo,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",2313,"Wireless, Noise Cancelling",Amazing performance!,88
+121,Asus Laptop 20,Laptop,Asus,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",1755,"Fast Charging, High Battery Life",Amazing performance!,81
+122,Microsoft Laptop 21,Laptop,Microsoft,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",1693,"Fast Charging, High Battery Life",Amazing performance!,95
+123,Microsoft Laptop 22,Laptop,Microsoft,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",910,"Waterproof, Super AMOLED Display",Good value for money.,83
+124,Dell Laptop 23,Laptop,Dell,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",2218,"Waterproof, Super AMOLED Display",Battery could be better.,72
+125,Asus Laptop 24,Laptop,Asus,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",914,"Lightweight, Noise Cancelling",Amazing performance!,88
+126,Apple Laptop 25,Laptop,Apple,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",1455,"Fast Charging, High Battery Life",Good value for money.,79
+127,Dell Laptop 26,Laptop,Dell,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",545,"Fast Charging, High Battery Life",Amazing performance!,80
+128,Dell Laptop 27,Laptop,Dell,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",2589,"Lightweight, Noise Cancelling",Good value for money.,81
+129,Apple Laptop 28,Laptop,Apple,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",2794,"5G Connectivity, Super AMOLED Display","High quality, but expensive.",97
+130,Apple Laptop 29,Laptop,Apple,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",757,"Fast Charging, High Battery Life",Battery could be better.,76
+131,HP Laptop 30,Laptop,HP,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",1619,"Fast Charging, High Battery Life",Battery could be better.,98
+132,Dell Laptop 31,Laptop,Dell,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",1000,"Waterproof, Super AMOLED Display",Amazing performance!,72
+133,Asus Laptop 32,Laptop,Asus,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",863,"Wireless, Noise Cancelling",Good value for money.,89
+134,Asus Laptop 33,Laptop,Asus,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",1059,"Waterproof, Super AMOLED Display",Amazing performance!,70
+135,Lenovo Laptop 34,Laptop,Lenovo,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",1040,"Lightweight, Noise Cancelling",Battery could be better.,77
+136,Dell Laptop 35,Laptop,Dell,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",1067,"Waterproof, Super AMOLED Display",Battery could be better.,75
+137,Dell Laptop 36,Laptop,Dell,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",818,"5G Connectivity, Super AMOLED Display",Good value for money.,83
+138,Asus Laptop 37,Laptop,Asus,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",902,"Waterproof, Super AMOLED Display",Battery could be better.,78
+139,Dell Laptop 38,Laptop,Dell,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",2890,"Lightweight, Noise Cancelling",Battery could be better.,97
+140,Asus Laptop 39,Laptop,Asus,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",694,"Wireless, Noise Cancelling","High quality, but expensive.",85
+141,Lenovo Laptop 40,Laptop,Lenovo,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",2960,"Wireless, Noise Cancelling","High quality, but expensive.",77
+142,Lenovo Laptop 41,Laptop,Lenovo,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",2132,"Lightweight, Noise Cancelling",Amazing performance!,85
+143,HP Laptop 42,Laptop,HP,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",1400,"Wireless, Noise Cancelling","High quality, but expensive.",77
+144,Microsoft Laptop 43,Laptop,Microsoft,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",2490,"Lightweight, Noise Cancelling",Amazing performance!,91
+145,Asus Laptop 44,Laptop,Asus,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",2656,"Fast Charging, High Battery Life",Amazing performance!,71
+146,Apple Laptop 45,Laptop,Apple,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",668,"Waterproof, Super AMOLED Display",Amazing performance!,89
+147,Microsoft Laptop 46,Laptop,Microsoft,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",1756,"Wireless, Noise Cancelling",Battery could be better.,83
+148,Apple Laptop 47,Laptop,Apple,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",1660,"Wireless, Noise Cancelling",Battery could be better.,80
+149,Dell Laptop 48,Laptop,Dell,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",1420,"Lightweight, Noise Cancelling",Good value for money.,95
+150,HP Laptop 49,Laptop,HP,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",1269,"Waterproof, Super AMOLED Display",Good value for money.,76
+151,Asus Laptop 50,Laptop,Asus,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",2945,"Fast Charging, High Battery Life",Good value for money.,74
+152,Apple Laptop 1,Laptop,Apple,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",2862,"5G Connectivity, Super AMOLED Display","High quality, but expensive.",93
+153,HP Laptop 2,Laptop,HP,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",1272,"Waterproof, Super AMOLED Display","High quality, but expensive.",89
+154,Apple Laptop 3,Laptop,Apple,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",2215,"Fast Charging, High Battery Life",Amazing performance!,90
+155,Dell Laptop 4,Laptop,Dell,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",2438,"Fast Charging, High Battery Life",Good value for money.,72
+156,Apple Laptop 5,Laptop,Apple,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",1259,"Waterproof, Super AMOLED Display",Good value for money.,85
+157,Apple Laptop 6,Laptop,Apple,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",1474,"Lightweight, Noise Cancelling",Battery could be better.,86
+158,Asus Laptop 7,Laptop,Asus,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",2384,"Fast Charging, High Battery Life","High quality, but expensive.",74
+159,Apple Laptop 8,Laptop,Apple,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",856,"5G Connectivity, Super AMOLED Display",Good value for money.,96
+160,Apple Laptop 9,Laptop,Apple,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",1632,"Lightweight, Noise Cancelling",Good value for money.,70
+161,Dell Laptop 10,Laptop,Dell,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",1500,"Wireless, Noise Cancelling",Battery could be better.,81
+162,Microsoft Laptop 11,Laptop,Microsoft,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",1202,"5G Connectivity, Super AMOLED Display",Amazing performance!,94
+163,Microsoft Laptop 12,Laptop,Microsoft,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",2503,"5G Connectivity, Super AMOLED Display","High quality, but expensive.",83
+164,Microsoft Laptop 13,Laptop,Microsoft,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",610,"Fast Charging, High Battery Life",Good value for money.,94
+165,Microsoft Laptop 14,Laptop,Microsoft,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",1771,"Lightweight, Noise Cancelling",Good value for money.,88
+166,HP Laptop 15,Laptop,HP,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",1001,"5G Connectivity, Super AMOLED Display","High quality, but expensive.",85
+167,Asus Laptop 16,Laptop,Asus,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",1794,"Lightweight, Noise Cancelling",Battery could be better.,83
+168,Apple Laptop 17,Laptop,Apple,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",1757,"Waterproof, Super AMOLED Display",Amazing performance!,76
+169,Asus Laptop 18,Laptop,Asus,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",1589,"Fast Charging, High Battery Life",Good value for money.,91
+170,Microsoft Laptop 19,Laptop,Microsoft,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",1592,"Wireless, Noise Cancelling",Battery could be better.,73
+171,Dell Laptop 20,Laptop,Dell,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",634,"Waterproof, Super AMOLED Display",Amazing performance!,93
+172,Dell Laptop 21,Laptop,Dell,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",1340,"Wireless, Noise Cancelling",Battery could be better.,83
+173,Apple Laptop 22,Laptop,Apple,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",1201,"Wireless, Noise Cancelling",Amazing performance!,79
+174,Asus Laptop 23,Laptop,Asus,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",1660,"Wireless, Noise Cancelling",Amazing performance!,95
+175,Dell Laptop 24,Laptop,Dell,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",1912,"5G Connectivity, Super AMOLED Display",Battery could be better.,85
+176,Dell Laptop 25,Laptop,Dell,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",2234,"Lightweight, Noise Cancelling",Amazing performance!,96
+177,Apple Laptop 26,Laptop,Apple,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",1298,"Lightweight, Noise Cancelling",Battery could be better.,83
+178,Lenovo Laptop 27,Laptop,Lenovo,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",1597,"Wireless, Noise Cancelling",Good value for money.,71
+179,Apple Laptop 28,Laptop,Apple,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",1467,"Wireless, Noise Cancelling",Good value for money.,81
+180,Microsoft Laptop 29,Laptop,Microsoft,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",2786,"Waterproof, Super AMOLED Display",Battery could be better.,72
+181,Microsoft Laptop 30,Laptop,Microsoft,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",2077,"Fast Charging, High Battery Life",Good value for money.,79
+182,Dell Laptop 31,Laptop,Dell,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",1835,"Wireless, Noise Cancelling",Amazing performance!,71
+183,Microsoft Laptop 32,Laptop,Microsoft,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",2248,"Wireless, Noise Cancelling",Good value for money.,87
+184,Apple Laptop 33,Laptop,Apple,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",619,"Wireless, Noise Cancelling",Amazing performance!,73
+185,Apple Laptop 34,Laptop,Apple,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",2372,"Lightweight, Noise Cancelling",Good value for money.,96
+186,Microsoft Laptop 35,Laptop,Microsoft,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",1379,"Lightweight, Noise Cancelling","High quality, but expensive.",93
+187,Dell Laptop 36,Laptop,Dell,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",2174,"5G Connectivity, Super AMOLED Display",Amazing performance!,87
+188,Asus Laptop 37,Laptop,Asus,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",1691,"5G Connectivity, Super AMOLED Display",Amazing performance!,82
+189,Asus Laptop 38,Laptop,Asus,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",2686,"Wireless, Noise Cancelling",Amazing performance!,91
+190,HP Laptop 39,Laptop,HP,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",1691,"Lightweight, Noise Cancelling",Amazing performance!,80
+191,HP Laptop 40,Laptop,HP,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",1967,"Wireless, Noise Cancelling",Battery could be better.,82
+192,Apple Laptop 41,Laptop,Apple,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",2204,"Lightweight, Noise Cancelling","High quality, but expensive.",75
+193,Dell Laptop 42,Laptop,Dell,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",1272,"Fast Charging, High Battery Life","High quality, but expensive.",82
+194,Asus Laptop 43,Laptop,Asus,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",912,"Waterproof, Super AMOLED Display",Battery could be better.,99
+195,Apple Laptop 44,Laptop,Apple,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",1501,"Fast Charging, High Battery Life",Amazing performance!,75
+196,Lenovo Laptop 45,Laptop,Lenovo,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",1730,"Lightweight, Noise Cancelling","High quality, but expensive.",97
+197,Apple Laptop 46,Laptop,Apple,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",2475,"Waterproof, Super AMOLED Display",Battery could be better.,73
+198,Lenovo Laptop 47,Laptop,Lenovo,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",2522,"Wireless, Noise Cancelling",Amazing performance!,87
+199,HP Laptop 48,Laptop,HP,"Apple M3 Pro, 16GB RAM, 512GB SSD, Retina Display",1825,"Wireless, Noise Cancelling",Amazing performance!,95
+200,Asus Laptop 49,Laptop,Asus,"Intel i9, 32GB RAM, 1TB SSD, RTX 4070 GPU, 4K Display",2683,"5G Connectivity, Super AMOLED Display","High quality, but expensive.",91
+201,Apple Tablet 50,Tablet,Apple,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",1070,"5G Connectivity, Super AMOLED Display",Good value for money.,72
+202,Xiaomi Tablet 1,Tablet,Xiaomi,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",205,"5G Connectivity, Super AMOLED Display",Good value for money.,97
+203,Samsung Tablet 2,Tablet,Samsung,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",1059,"Waterproof, Super AMOLED Display",Battery could be better.,94
+204,Xiaomi Tablet 3,Tablet,Xiaomi,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",1201,"Fast Charging, High Battery Life",Good value for money.,89
+205,Apple Tablet 4,Tablet,Apple,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",765,"Waterproof, Super AMOLED Display",Battery could be better.,96
+206,Apple Tablet 5,Tablet,Apple,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",240,"Lightweight, Noise Cancelling",Good value for money.,92
+207,Apple Tablet 6,Tablet,Apple,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",627,"Fast Charging, High Battery Life",Amazing performance!,79
+208,Apple Tablet 7,Tablet,Apple,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",800,"Fast Charging, High Battery Life",Amazing performance!,72
+209,Lenovo Tablet 8,Tablet,Lenovo,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",1392,"Waterproof, Super AMOLED Display",Amazing performance!,73
+210,Lenovo Tablet 9,Tablet,Lenovo,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",668,"Waterproof, Super AMOLED Display",Battery could be better.,70
+211,Lenovo Tablet 10,Tablet,Lenovo,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",205,"Waterproof, Super AMOLED Display",Amazing performance!,88
+212,Xiaomi Tablet 11,Tablet,Xiaomi,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",430,"Fast Charging, High Battery Life",Amazing performance!,78
+213,Xiaomi Tablet 12,Tablet,Xiaomi,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",976,"Fast Charging, High Battery Life","High quality, but expensive.",84
+214,Apple Tablet 13,Tablet,Apple,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",900,"5G Connectivity, Super AMOLED Display",Good value for money.,73
+215,Samsung Tablet 14,Tablet,Samsung,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",1378,"5G Connectivity, Super AMOLED Display",Good value for money.,95
+216,Lenovo Tablet 15,Tablet,Lenovo,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",386,"Waterproof, Super AMOLED Display",Battery could be better.,84
+217,Lenovo Tablet 16,Tablet,Lenovo,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",522,"Waterproof, Super AMOLED Display","High quality, but expensive.",90
+218,Apple Tablet 17,Tablet,Apple,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",436,"5G Connectivity, Super AMOLED Display",Amazing performance!,72
+219,Lenovo Tablet 18,Tablet,Lenovo,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",1307,"Waterproof, Super AMOLED Display",Battery could be better.,99
+220,Samsung Tablet 19,Tablet,Samsung,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",1359,"Fast Charging, High Battery Life",Good value for money.,90
+221,Apple Tablet 20,Tablet,Apple,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",1245,"Waterproof, Super AMOLED Display",Good value for money.,88
+222,Lenovo Tablet 21,Tablet,Lenovo,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",1061,"Wireless, Noise Cancelling",Battery could be better.,81
+223,Apple Tablet 22,Tablet,Apple,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",1350,"5G Connectivity, Super AMOLED Display","High quality, but expensive.",70
+224,Xiaomi Tablet 23,Tablet,Xiaomi,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",1500,"5G Connectivity, Super AMOLED Display",Battery could be better.,78
+225,Lenovo Tablet 24,Tablet,Lenovo,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",633,"Fast Charging, High Battery Life",Amazing performance!,74
+226,Lenovo Tablet 25,Tablet,Lenovo,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",330,"5G Connectivity, Super AMOLED Display",Good value for money.,78
+227,Lenovo Tablet 26,Tablet,Lenovo,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",313,"5G Connectivity, Super AMOLED Display",Battery could be better.,90
+228,Lenovo Tablet 27,Tablet,Lenovo,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",1056,"Lightweight, Noise Cancelling","High quality, but expensive.",90
+229,Xiaomi Tablet 28,Tablet,Xiaomi,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",1220,"Fast Charging, High Battery Life",Battery could be better.,73
+230,Xiaomi Tablet 29,Tablet,Xiaomi,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",740,"Lightweight, Noise Cancelling",Battery could be better.,75
+231,Samsung Tablet 30,Tablet,Samsung,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",406,"Waterproof, Super AMOLED Display",Amazing performance!,99
+232,Lenovo Tablet 31,Tablet,Lenovo,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",1020,"Wireless, Noise Cancelling","High quality, but expensive.",74
+233,Samsung Tablet 32,Tablet,Samsung,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",1043,"5G Connectivity, Super AMOLED Display","High quality, but expensive.",91
+234,Xiaomi Tablet 33,Tablet,Xiaomi,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",1323,"Lightweight, Noise Cancelling",Good value for money.,88
+235,Xiaomi Tablet 34,Tablet,Xiaomi,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",1121,"Wireless, Noise Cancelling",Battery could be better.,70
+236,Samsung Tablet 35,Tablet,Samsung,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",804,"Lightweight, Noise Cancelling",Amazing performance!,98
+237,Apple Tablet 36,Tablet,Apple,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",1016,"Fast Charging, High Battery Life",Battery could be better.,72
+238,Lenovo Tablet 37,Tablet,Lenovo,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",864,"Fast Charging, High Battery Life",Amazing performance!,96
+239,Apple Tablet 38,Tablet,Apple,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",762,"Waterproof, Super AMOLED Display",Good value for money.,89
+240,Samsung Tablet 39,Tablet,Samsung,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",425,"Fast Charging, High Battery Life",Battery could be better.,77
+241,Apple Tablet 40,Tablet,Apple,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",709,"Waterproof, Super AMOLED Display",Battery could be better.,77
+242,Xiaomi Tablet 41,Tablet,Xiaomi,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",394,"Wireless, Noise Cancelling",Battery could be better.,79
+243,Samsung Tablet 42,Tablet,Samsung,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",550,"5G Connectivity, Super AMOLED Display","High quality, but expensive.",79
+244,Apple Tablet 43,Tablet,Apple,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",361,"Wireless, Noise Cancelling","High quality, but expensive.",71
+245,Samsung Tablet 44,Tablet,Samsung,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",1415,"5G Connectivity, Super AMOLED Display","High quality, but expensive.",91
+246,Lenovo Tablet 45,Tablet,Lenovo,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",1489,"Fast Charging, High Battery Life",Amazing performance!,98
+247,Xiaomi Tablet 46,Tablet,Xiaomi,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",1255,"Wireless, Noise Cancelling",Amazing performance!,90
+248,Apple Tablet 47,Tablet,Apple,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",421,"5G Connectivity, Super AMOLED Display",Amazing performance!,82
+249,Samsung Tablet 48,Tablet,Samsung,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",744,"Lightweight, Noise Cancelling",Good value for money.,80
+250,Lenovo Tablet 49,Tablet,Lenovo,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",1397,"Lightweight, Noise Cancelling",Battery could be better.,87
+251,Lenovo Tablet 50,Tablet,Lenovo,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",1463,"5G Connectivity, Super AMOLED Display","High quality, but expensive.",94
+252,Samsung Tablet 1,Tablet,Samsung,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",344,"Fast Charging, High Battery Life",Amazing performance!,97
+253,Xiaomi Tablet 2,Tablet,Xiaomi,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",788,"Wireless, Noise Cancelling",Good value for money.,82
+254,Apple Tablet 3,Tablet,Apple,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",1500,"Lightweight, Noise Cancelling",Good value for money.,90
+255,Samsung Tablet 4,Tablet,Samsung,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",1053,"Fast Charging, High Battery Life","High quality, but expensive.",91
+256,Xiaomi Tablet 5,Tablet,Xiaomi,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",1244,"Waterproof, Super AMOLED Display",Good value for money.,99
+257,Xiaomi Tablet 6,Tablet,Xiaomi,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",998,"Wireless, Noise Cancelling","High quality, but expensive.",86
+258,Samsung Tablet 7,Tablet,Samsung,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",962,"Fast Charging, High Battery Life",Amazing performance!,80
+259,Lenovo Tablet 8,Tablet,Lenovo,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",667,"Fast Charging, High Battery Life",Amazing performance!,92
+260,Samsung Tablet 9,Tablet,Samsung,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",867,"Lightweight, Noise Cancelling",Good value for money.,94
+261,Xiaomi Tablet 10,Tablet,Xiaomi,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",1421,"5G Connectivity, Super AMOLED Display",Battery could be better.,96
+262,Apple Tablet 11,Tablet,Apple,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",847,"5G Connectivity, Super AMOLED Display",Amazing performance!,81
+263,Lenovo Tablet 12,Tablet,Lenovo,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",697,"Wireless, Noise Cancelling",Good value for money.,75
+264,Lenovo Tablet 13,Tablet,Lenovo,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",655,"Wireless, Noise Cancelling",Battery could be better.,86
+265,Xiaomi Tablet 14,Tablet,Xiaomi,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",508,"Lightweight, Noise Cancelling",Battery could be better.,91
+266,Samsung Tablet 15,Tablet,Samsung,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",1098,"Waterproof, Super AMOLED Display",Battery could be better.,75
+267,Lenovo Tablet 16,Tablet,Lenovo,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",362,"Lightweight, Noise Cancelling",Battery could be better.,86
+268,Samsung Tablet 17,Tablet,Samsung,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",964,"Lightweight, Noise Cancelling",Good value for money.,74
+269,Lenovo Tablet 18,Tablet,Lenovo,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",681,"Fast Charging, High Battery Life",Amazing performance!,79
+270,Lenovo Tablet 19,Tablet,Lenovo,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",707,"Wireless, Noise Cancelling",Good value for money.,98
+271,Apple Tablet 20,Tablet,Apple,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",1357,"Lightweight, Noise Cancelling","High quality, but expensive.",94
+272,Apple Tablet 21,Tablet,Apple,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",645,"Fast Charging, High Battery Life",Good value for money.,82
+273,Xiaomi Tablet 22,Tablet,Xiaomi,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",670,"5G Connectivity, Super AMOLED Display",Amazing performance!,95
+274,Apple Tablet 23,Tablet,Apple,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",654,"Lightweight, Noise Cancelling",Battery could be better.,73
+275,Lenovo Tablet 24,Tablet,Lenovo,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",888,"Wireless, Noise Cancelling",Battery could be better.,73
+276,Xiaomi Tablet 25,Tablet,Xiaomi,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",1335,"Lightweight, Noise Cancelling",Amazing performance!,96
+277,Samsung Tablet 26,Tablet,Samsung,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",558,"Wireless, Noise Cancelling","High quality, but expensive.",89
+278,Lenovo Tablet 27,Tablet,Lenovo,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",587,"5G Connectivity, Super AMOLED Display",Battery could be better.,94
+279,Xiaomi Tablet 28,Tablet,Xiaomi,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",910,"Fast Charging, High Battery Life",Good value for money.,79
+280,Apple Tablet 29,Tablet,Apple,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",259,"Wireless, Noise Cancelling",Good value for money.,96
+281,Samsung Tablet 30,Tablet,Samsung,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",735,"Waterproof, Super AMOLED Display",Amazing performance!,70
+282,Apple Tablet 31,Tablet,Apple,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",1121,"Fast Charging, High Battery Life","High quality, but expensive.",83
+283,Lenovo Tablet 32,Tablet,Lenovo,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",1272,"5G Connectivity, Super AMOLED Display","High quality, but expensive.",92
+284,Apple Tablet 33,Tablet,Apple,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",521,"Wireless, Noise Cancelling",Good value for money.,96
+285,Apple Tablet 34,Tablet,Apple,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",1227,"5G Connectivity, Super AMOLED Display","High quality, but expensive.",77
+286,Lenovo Tablet 35,Tablet,Lenovo,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",902,"Lightweight, Noise Cancelling",Amazing performance!,86
+287,Apple Tablet 36,Tablet,Apple,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",1433,"Fast Charging, High Battery Life",Good value for money.,92
+288,Samsung Tablet 37,Tablet,Samsung,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",1195,"5G Connectivity, Super AMOLED Display","High quality, but expensive.",87
+289,Samsung Tablet 38,Tablet,Samsung,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",907,"Waterproof, Super AMOLED Display",Amazing performance!,82
+290,Apple Tablet 39,Tablet,Apple,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",638,"Waterproof, Super AMOLED Display","High quality, but expensive.",94
+291,Samsung Tablet 40,Tablet,Samsung,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",206,"5G Connectivity, Super AMOLED Display",Amazing performance!,88
+292,Samsung Tablet 41,Tablet,Samsung,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",1124,"5G Connectivity, Super AMOLED Display",Amazing performance!,77
+293,Samsung Tablet 42,Tablet,Samsung,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",1151,"5G Connectivity, Super AMOLED Display",Battery could be better.,85
+294,Xiaomi Tablet 43,Tablet,Xiaomi,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",1309,"5G Connectivity, Super AMOLED Display",Amazing performance!,85
+295,Apple Tablet 44,Tablet,Apple,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",1200,"Wireless, Noise Cancelling",Battery could be better.,85
+296,Xiaomi Tablet 45,Tablet,Xiaomi,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",1092,"Fast Charging, High Battery Life","High quality, but expensive.",92
+297,Lenovo Tablet 46,Tablet,Lenovo,"Snapdragon 8cx Gen 2, 8GB RAM, 128GB Storage, 10.5-inch AMOLED",872,"Wireless, Noise Cancelling","High quality, but expensive.",83
+298,Xiaomi Tablet 47,Tablet,Xiaomi,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",1050,"Lightweight, Noise Cancelling",Good value for money.,72
+299,Xiaomi Tablet 48,Tablet,Xiaomi,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",1116,"Waterproof, Super AMOLED Display","High quality, but expensive.",72
+300,Apple Tablet 49,Tablet,Apple,"Apple M2 Chip, 12.9-inch Display, 256GB Storage, 5G Support",1307,"5G Connectivity, Super AMOLED Display",Battery could be better.,88
+301,OnePlus Smartwatch 50,Smartwatch,OnePlus,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",113,"Waterproof, Super AMOLED Display",Good value for money.,97
+302,Samsung Smartwatch 1,Smartwatch,Samsung,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",702,"Lightweight, Noise Cancelling",Amazing performance!,92
+303,OnePlus Smartwatch 2,Smartwatch,OnePlus,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",785,"Waterproof, Super AMOLED Display","High quality, but expensive.",73
+304,OnePlus Smartwatch 3,Smartwatch,OnePlus,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",691,"Lightweight, Noise Cancelling",Amazing performance!,93
+305,Samsung Smartwatch 4,Smartwatch,Samsung,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",738,"Wireless, Noise Cancelling",Good value for money.,85
+306,Garmin Smartwatch 5,Smartwatch,Garmin,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",624,"Fast Charging, High Battery Life",Battery could be better.,74
+307,OnePlus Smartwatch 6,Smartwatch,OnePlus,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",263,"Fast Charging, High Battery Life",Amazing performance!,85
+308,Apple Smartwatch 7,Smartwatch,Apple,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",317,"Wireless, Noise Cancelling",Good value for money.,87
+309,Apple Smartwatch 8,Smartwatch,Apple,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",425,"Waterproof, Super AMOLED Display",Good value for money.,77
+310,Samsung Smartwatch 9,Smartwatch,Samsung,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",609,"Lightweight, Noise Cancelling",Battery could be better.,82
+311,Apple Smartwatch 10,Smartwatch,Apple,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",271,"Lightweight, Noise Cancelling",Good value for money.,95
+312,Garmin Smartwatch 11,Smartwatch,Garmin,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",452,"Wireless, Noise Cancelling","High quality, but expensive.",71
+313,Samsung Smartwatch 12,Smartwatch,Samsung,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",104,"Lightweight, Noise Cancelling","High quality, but expensive.",99
+314,OnePlus Smartwatch 13,Smartwatch,OnePlus,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",736,"5G Connectivity, Super AMOLED Display",Amazing performance!,78
+315,Apple Smartwatch 14,Smartwatch,Apple,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",226,"Fast Charging, High Battery Life","High quality, but expensive.",98
+316,Samsung Smartwatch 15,Smartwatch,Samsung,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",602,"Lightweight, Noise Cancelling",Good value for money.,91
+317,OnePlus Smartwatch 16,Smartwatch,OnePlus,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",114,"Waterproof, Super AMOLED Display",Amazing performance!,83
+318,Samsung Smartwatch 17,Smartwatch,Samsung,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",500,"5G Connectivity, Super AMOLED Display",Amazing performance!,73
+319,OnePlus Smartwatch 18,Smartwatch,OnePlus,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",619,"Lightweight, Noise Cancelling","High quality, but expensive.",95
+320,OnePlus Smartwatch 19,Smartwatch,OnePlus,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",486,"Lightweight, Noise Cancelling",Battery could be better.,83
+321,Apple Smartwatch 20,Smartwatch,Apple,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",126,"Wireless, Noise Cancelling",Good value for money.,84
+322,OnePlus Smartwatch 21,Smartwatch,OnePlus,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",239,"Wireless, Noise Cancelling",Amazing performance!,83
+323,Apple Smartwatch 22,Smartwatch,Apple,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",300,"Waterproof, Super AMOLED Display",Battery could be better.,75
+324,Apple Smartwatch 23,Smartwatch,Apple,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",359,"Waterproof, Super AMOLED Display",Amazing performance!,90
+325,Samsung Smartwatch 24,Smartwatch,Samsung,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",284,"Wireless, Noise Cancelling",Good value for money.,98
+326,Garmin Smartwatch 25,Smartwatch,Garmin,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",453,"Lightweight, Noise Cancelling",Battery could be better.,91
+327,Samsung Smartwatch 26,Smartwatch,Samsung,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",424,"Fast Charging, High Battery Life",Amazing performance!,90
+328,Garmin Smartwatch 27,Smartwatch,Garmin,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",359,"5G Connectivity, Super AMOLED Display",Good value for money.,83
+329,OnePlus Smartwatch 28,Smartwatch,OnePlus,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",622,"5G Connectivity, Super AMOLED Display",Amazing performance!,91
+330,Samsung Smartwatch 29,Smartwatch,Samsung,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",237,"Lightweight, Noise Cancelling",Amazing performance!,71
+331,Apple Smartwatch 30,Smartwatch,Apple,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",161,"Fast Charging, High Battery Life","High quality, but expensive.",98
+332,Garmin Smartwatch 31,Smartwatch,Garmin,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",160,"5G Connectivity, Super AMOLED Display",Battery could be better.,78
+333,Garmin Smartwatch 32,Smartwatch,Garmin,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",261,"5G Connectivity, Super AMOLED Display",Battery could be better.,97
+334,OnePlus Smartwatch 33,Smartwatch,OnePlus,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",500,"Lightweight, Noise Cancelling","High quality, but expensive.",96
+335,Garmin Smartwatch 34,Smartwatch,Garmin,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",271,"5G Connectivity, Super AMOLED Display","High quality, but expensive.",78
+336,Apple Smartwatch 35,Smartwatch,Apple,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",286,"Lightweight, Noise Cancelling",Good value for money.,74
+337,OnePlus Smartwatch 36,Smartwatch,OnePlus,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",402,"Wireless, Noise Cancelling",Amazing performance!,74
+338,Apple Smartwatch 37,Smartwatch,Apple,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",156,"Lightweight, Noise Cancelling",Battery could be better.,74
+339,Garmin Smartwatch 38,Smartwatch,Garmin,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",680,"Wireless, Noise Cancelling",Battery could be better.,89
+340,Apple Smartwatch 39,Smartwatch,Apple,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",215,"Waterproof, Super AMOLED Display",Battery could be better.,71
+341,Samsung Smartwatch 40,Smartwatch,Samsung,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",392,"Fast Charging, High Battery Life",Good value for money.,82
+342,Samsung Smartwatch 41,Smartwatch,Samsung,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",215,"Waterproof, Super AMOLED Display",Amazing performance!,77
+343,Apple Smartwatch 42,Smartwatch,Apple,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",208,"Fast Charging, High Battery Life",Good value for money.,95
+344,Apple Smartwatch 43,Smartwatch,Apple,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",388,"Wireless, Noise Cancelling",Battery could be better.,73
+345,OnePlus Smartwatch 44,Smartwatch,OnePlus,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",241,"Fast Charging, High Battery Life","High quality, but expensive.",94
+346,Samsung Smartwatch 45,Smartwatch,Samsung,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",291,"Fast Charging, High Battery Life","High quality, but expensive.",92
+347,OnePlus Smartwatch 46,Smartwatch,OnePlus,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",471,"Lightweight, Noise Cancelling",Good value for money.,86
+348,Garmin Smartwatch 47,Smartwatch,Garmin,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",118,"Wireless, Noise Cancelling",Good value for money.,93
+349,Garmin Smartwatch 48,Smartwatch,Garmin,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",121,"5G Connectivity, Super AMOLED Display",Amazing performance!,83
+350,Samsung Smartwatch 49,Smartwatch,Samsung,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",242,"Waterproof, Super AMOLED Display",Amazing performance!,89
+351,OnePlus Smartwatch 50,Smartwatch,OnePlus,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",153,"Wireless, Noise Cancelling",Good value for money.,76
+352,Garmin Smartwatch 1,Smartwatch,Garmin,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",778,"Fast Charging, High Battery Life",Battery could be better.,84
+353,Garmin Smartwatch 2,Smartwatch,Garmin,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",618,"Waterproof, Super AMOLED Display","High quality, but expensive.",89
+354,OnePlus Smartwatch 3,Smartwatch,OnePlus,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",562,"5G Connectivity, Super AMOLED Display",Good value for money.,92
+355,Samsung Smartwatch 4,Smartwatch,Samsung,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",274,"5G Connectivity, Super AMOLED Display",Good value for money.,84
+356,Samsung Smartwatch 5,Smartwatch,Samsung,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",597,"Waterproof, Super AMOLED Display",Amazing performance!,86
+357,Apple Smartwatch 6,Smartwatch,Apple,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",254,"5G Connectivity, Super AMOLED Display",Amazing performance!,79
+358,Samsung Smartwatch 7,Smartwatch,Samsung,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",572,"Waterproof, Super AMOLED Display","High quality, but expensive.",74
+359,Garmin Smartwatch 8,Smartwatch,Garmin,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",529,"Fast Charging, High Battery Life","High quality, but expensive.",99
+360,Apple Smartwatch 9,Smartwatch,Apple,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",435,"Lightweight, Noise Cancelling",Good value for money.,85
+361,Samsung Smartwatch 10,Smartwatch,Samsung,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",327,"Lightweight, Noise Cancelling",Amazing performance!,78
+362,Samsung Smartwatch 11,Smartwatch,Samsung,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",321,"Lightweight, Noise Cancelling",Battery could be better.,84
+363,Apple Smartwatch 12,Smartwatch,Apple,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",302,"Fast Charging, High Battery Life","High quality, but expensive.",92
+364,Samsung Smartwatch 13,Smartwatch,Samsung,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",284,"Lightweight, Noise Cancelling",Battery could be better.,93
+365,Apple Smartwatch 14,Smartwatch,Apple,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",629,"Lightweight, Noise Cancelling",Good value for money.,82
+366,Apple Smartwatch 15,Smartwatch,Apple,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",362,"Wireless, Noise Cancelling",Good value for money.,75
+367,Apple Smartwatch 16,Smartwatch,Apple,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",426,"Waterproof, Super AMOLED Display",Battery could be better.,93
+368,Samsung Smartwatch 17,Smartwatch,Samsung,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",509,"Lightweight, Noise Cancelling",Good value for money.,94
+369,OnePlus Smartwatch 18,Smartwatch,OnePlus,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",136,"Fast Charging, High Battery Life","High quality, but expensive.",71
+370,Samsung Smartwatch 19,Smartwatch,Samsung,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",737,"Lightweight, Noise Cancelling",Amazing performance!,73
+371,OnePlus Smartwatch 20,Smartwatch,OnePlus,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",138,"Waterproof, Super AMOLED Display",Good value for money.,73
+372,OnePlus Smartwatch 21,Smartwatch,OnePlus,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",793,"Waterproof, Super AMOLED Display",Battery could be better.,95
+373,Garmin Smartwatch 22,Smartwatch,Garmin,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",748,"Fast Charging, High Battery Life",Amazing performance!,82
+374,Samsung Smartwatch 23,Smartwatch,Samsung,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",213,"Waterproof, Super AMOLED Display","High quality, but expensive.",93
+375,Apple Smartwatch 24,Smartwatch,Apple,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",611,"Fast Charging, High Battery Life",Amazing performance!,73
+376,Garmin Smartwatch 25,Smartwatch,Garmin,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",140,"Waterproof, Super AMOLED Display",Good value for money.,91
+377,Garmin Smartwatch 26,Smartwatch,Garmin,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",548,"5G Connectivity, Super AMOLED Display",Good value for money.,99
+378,OnePlus Smartwatch 27,Smartwatch,OnePlus,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",520,"Fast Charging, High Battery Life",Battery could be better.,97
+379,Samsung Smartwatch 28,Smartwatch,Samsung,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",430,"Wireless, Noise Cancelling",Good value for money.,78
+380,OnePlus Smartwatch 29,Smartwatch,OnePlus,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",657,"Lightweight, Noise Cancelling",Amazing performance!,77
+381,Garmin Smartwatch 30,Smartwatch,Garmin,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",279,"5G Connectivity, Super AMOLED Display",Amazing performance!,90
+382,Apple Smartwatch 31,Smartwatch,Apple,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",331,"Wireless, Noise Cancelling",Battery could be better.,73
+383,Samsung Smartwatch 32,Smartwatch,Samsung,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",451,"Fast Charging, High Battery Life",Good value for money.,82
+384,Garmin Smartwatch 33,Smartwatch,Garmin,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",760,"Wireless, Noise Cancelling","High quality, but expensive.",90
+385,Samsung Smartwatch 34,Smartwatch,Samsung,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",225,"Wireless, Noise Cancelling","High quality, but expensive.",93
+386,Samsung Smartwatch 35,Smartwatch,Samsung,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",114,"Waterproof, Super AMOLED Display",Amazing performance!,83
+387,Apple Smartwatch 36,Smartwatch,Apple,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",494,"Fast Charging, High Battery Life",Good value for money.,75
+388,Garmin Smartwatch 37,Smartwatch,Garmin,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",800,"Lightweight, Noise Cancelling",Battery could be better.,85
+389,Apple Smartwatch 38,Smartwatch,Apple,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",563,"Waterproof, Super AMOLED Display","High quality, but expensive.",71
+390,OnePlus Smartwatch 39,Smartwatch,OnePlus,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",155,"Fast Charging, High Battery Life",Battery could be better.,99
+391,Apple Smartwatch 40,Smartwatch,Apple,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",557,"Waterproof, Super AMOLED Display","High quality, but expensive.",90
+392,Apple Smartwatch 41,Smartwatch,Apple,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",382,"Fast Charging, High Battery Life",Amazing performance!,97
+393,Samsung Smartwatch 42,Smartwatch,Samsung,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",745,"Fast Charging, High Battery Life",Battery could be better.,75
+394,Garmin Smartwatch 43,Smartwatch,Garmin,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",482,"Wireless, Noise Cancelling",Amazing performance!,86
+395,OnePlus Smartwatch 44,Smartwatch,OnePlus,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",318,"Waterproof, Super AMOLED Display","High quality, but expensive.",96
+396,Samsung Smartwatch 45,Smartwatch,Samsung,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",571,"Fast Charging, High Battery Life",Battery could be better.,72
+397,Apple Smartwatch 46,Smartwatch,Apple,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",160,"Waterproof, Super AMOLED Display",Battery could be better.,97
+398,OnePlus Smartwatch 47,Smartwatch,OnePlus,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",759,"5G Connectivity, Super AMOLED Display","High quality, but expensive.",79
+399,Garmin Smartwatch 48,Smartwatch,Garmin,"WearOS, Exynos W930, ECG, Blood Pressure Monitoring",667,"Lightweight, Noise Cancelling",Good value for money.,81
+400,Apple Smartwatch 49,Smartwatch,Apple,"S9 Chip, 49mm Titanium, Dual-Frequency GPS, 36hr Battery",800,"Waterproof, Super AMOLED Display",Battery could be better.,83
+401,Sennheiser Headphones 50,Headphones,Sennheiser,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",188,"Lightweight, Noise Cancelling","High quality, but expensive.",93
+402,JBL Headphones 1,Headphones,JBL,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",247,"Waterproof, Super AMOLED Display",Amazing performance!,74
+403,Sony Headphones 2,Headphones,Sony,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",145,"5G Connectivity, Super AMOLED Display",Amazing performance!,95
+404,Sony Headphones 3,Headphones,Sony,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",288,"Waterproof, Super AMOLED Display",Good value for money.,99
+405,JBL Headphones 4,Headphones,JBL,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",170,"Fast Charging, High Battery Life","High quality, but expensive.",83
+406,Sennheiser Headphones 5,Headphones,Sennheiser,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",157,"5G Connectivity, Super AMOLED Display",Battery could be better.,83
+407,Sennheiser Headphones 6,Headphones,Sennheiser,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",297,"5G Connectivity, Super AMOLED Display",Amazing performance!,73
+408,JBL Headphones 7,Headphones,JBL,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",576,"Wireless, Noise Cancelling",Amazing performance!,72
+409,Sony Headphones 8,Headphones,Sony,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",216,"Lightweight, Noise Cancelling","High quality, but expensive.",77
+410,Sony Headphones 9,Headphones,Sony,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",168,"Wireless, Noise Cancelling",Battery could be better.,93
+411,JBL Headphones 10,Headphones,JBL,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",68,"5G Connectivity, Super AMOLED Display",Amazing performance!,98
+412,Bose Headphones 11,Headphones,Bose,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",380,"Waterproof, Super AMOLED Display",Amazing performance!,70
+413,Sennheiser Headphones 12,Headphones,Sennheiser,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",134,"5G Connectivity, Super AMOLED Display","High quality, but expensive.",75
+414,Sennheiser Headphones 13,Headphones,Sennheiser,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",429,"Fast Charging, High Battery Life","High quality, but expensive.",79
+415,JBL Headphones 14,Headphones,JBL,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",528,"Wireless, Noise Cancelling","High quality, but expensive.",79
+416,JBL Headphones 15,Headphones,JBL,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",530,"Wireless, Noise Cancelling","High quality, but expensive.",84
+417,Sony Headphones 16,Headphones,Sony,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",209,"Waterproof, Super AMOLED Display",Battery could be better.,77
+418,Sennheiser Headphones 17,Headphones,Sennheiser,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",600,"Wireless, Noise Cancelling",Battery could be better.,91
+419,Sennheiser Headphones 18,Headphones,Sennheiser,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",245,"5G Connectivity, Super AMOLED Display",Battery could be better.,70
+420,Sennheiser Headphones 19,Headphones,Sennheiser,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",97,"Wireless, Noise Cancelling","High quality, but expensive.",77
+421,Bose Headphones 20,Headphones,Bose,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",166,"Waterproof, Super AMOLED Display",Amazing performance!,91
+422,JBL Headphones 21,Headphones,JBL,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",537,"Wireless, Noise Cancelling",Battery could be better.,72
+423,Sony Headphones 22,Headphones,Sony,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",165,"Lightweight, Noise Cancelling",Good value for money.,81
+424,Bose Headphones 23,Headphones,Bose,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",334,"Wireless, Noise Cancelling",Amazing performance!,84
+425,Bose Headphones 24,Headphones,Bose,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",455,"Lightweight, Noise Cancelling",Battery could be better.,83
+426,Sennheiser Headphones 25,Headphones,Sennheiser,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",178,"Waterproof, Super AMOLED Display",Battery could be better.,82
+427,Sony Headphones 26,Headphones,Sony,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",396,"Lightweight, Noise Cancelling","High quality, but expensive.",79
+428,Sennheiser Headphones 27,Headphones,Sennheiser,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",267,"Waterproof, Super AMOLED Display",Good value for money.,91
+429,Bose Headphones 28,Headphones,Bose,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",458,"Wireless, Noise Cancelling","High quality, but expensive.",75
+430,Sony Headphones 29,Headphones,Sony,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",73,"Waterproof, Super AMOLED Display",Good value for money.,96
+431,JBL Headphones 30,Headphones,JBL,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",107,"Lightweight, Noise Cancelling",Good value for money.,89
+432,Sony Headphones 31,Headphones,Sony,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",388,"Lightweight, Noise Cancelling",Battery could be better.,89
+433,Bose Headphones 32,Headphones,Bose,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",171,"Wireless, Noise Cancelling","High quality, but expensive.",92
+434,Sennheiser Headphones 33,Headphones,Sennheiser,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",381,"Waterproof, Super AMOLED Display",Good value for money.,70
+435,JBL Headphones 34,Headphones,JBL,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",267,"Lightweight, Noise Cancelling",Amazing performance!,98
+436,Bose Headphones 35,Headphones,Bose,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",493,"Waterproof, Super AMOLED Display","High quality, but expensive.",89
+437,Sennheiser Headphones 36,Headphones,Sennheiser,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",67,"Wireless, Noise Cancelling",Good value for money.,84
+438,Sennheiser Headphones 37,Headphones,Sennheiser,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",235,"Lightweight, Noise Cancelling","High quality, but expensive.",70
+439,Bose Headphones 38,Headphones,Bose,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",52,"5G Connectivity, Super AMOLED Display",Amazing performance!,75
+440,Sennheiser Headphones 39,Headphones,Sennheiser,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",520,"Fast Charging, High Battery Life","High quality, but expensive.",78
+441,JBL Headphones 40,Headphones,JBL,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",50,"Fast Charging, High Battery Life",Amazing performance!,89
+442,Sony Headphones 41,Headphones,Sony,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",107,"Waterproof, Super AMOLED Display",Amazing performance!,70
+443,Sennheiser Headphones 42,Headphones,Sennheiser,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",552,"5G Connectivity, Super AMOLED Display",Good value for money.,76
+444,Bose Headphones 43,Headphones,Bose,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",203,"Fast Charging, High Battery Life","High quality, but expensive.",85
+445,JBL Headphones 44,Headphones,JBL,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",153,"Lightweight, Noise Cancelling",Battery could be better.,73
+446,JBL Headphones 45,Headphones,JBL,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",116,"Wireless, Noise Cancelling",Battery could be better.,71
+447,Sennheiser Headphones 46,Headphones,Sennheiser,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",62,"Lightweight, Noise Cancelling",Battery could be better.,87
+448,Sony Headphones 47,Headphones,Sony,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",239,"Lightweight, Noise Cancelling",Good value for money.,77
+449,JBL Headphones 48,Headphones,JBL,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",136,"Fast Charging, High Battery Life","High quality, but expensive.",77
+450,Bose Headphones 49,Headphones,Bose,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",176,"Wireless, Noise Cancelling",Amazing performance!,78
+451,Sennheiser Headphones 50,Headphones,Sennheiser,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",320,"5G Connectivity, Super AMOLED Display",Good value for money.,95
+452,Sennheiser Headphones 1,Headphones,Sennheiser,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",169,"5G Connectivity, Super AMOLED Display",Good value for money.,99
+453,Bose Headphones 2,Headphones,Bose,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",77,"5G Connectivity, Super AMOLED Display",Amazing performance!,75
+454,Sony Headphones 3,Headphones,Sony,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",419,"5G Connectivity, Super AMOLED Display",Good value for money.,81
+455,Sony Headphones 4,Headphones,Sony,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",534,"Wireless, Noise Cancelling",Good value for money.,91
+456,JBL Headphones 5,Headphones,JBL,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",55,"Wireless, Noise Cancelling",Amazing performance!,77
+457,JBL Headphones 6,Headphones,JBL,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",280,"Lightweight, Noise Cancelling",Battery could be better.,85
+458,Sony Headphones 7,Headphones,Sony,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",62,"5G Connectivity, Super AMOLED Display","High quality, but expensive.",89
+459,Sennheiser Headphones 8,Headphones,Sennheiser,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",50,"Wireless, Noise Cancelling",Battery could be better.,95
+460,JBL Headphones 9,Headphones,JBL,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",516,"Waterproof, Super AMOLED Display",Good value for money.,80
+461,JBL Headphones 10,Headphones,JBL,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",136,"Lightweight, Noise Cancelling",Battery could be better.,80
+462,Bose Headphones 11,Headphones,Bose,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",210,"5G Connectivity, Super AMOLED Display",Battery could be better.,98
+463,Bose Headphones 12,Headphones,Bose,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",522,"Fast Charging, High Battery Life",Amazing performance!,96
+464,Sony Headphones 13,Headphones,Sony,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",71,"Lightweight, Noise Cancelling",Battery could be better.,74
+465,Sennheiser Headphones 14,Headphones,Sennheiser,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",367,"Fast Charging, High Battery Life",Amazing performance!,90
+466,JBL Headphones 15,Headphones,JBL,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",79,"Lightweight, Noise Cancelling",Amazing performance!,95
+467,JBL Headphones 16,Headphones,JBL,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",151,"Lightweight, Noise Cancelling",Amazing performance!,74
+468,JBL Headphones 17,Headphones,JBL,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",206,"Wireless, Noise Cancelling","High quality, but expensive.",83
+469,JBL Headphones 18,Headphones,JBL,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",71,"5G Connectivity, Super AMOLED Display",Amazing performance!,98
+470,Sony Headphones 19,Headphones,Sony,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",359,"5G Connectivity, Super AMOLED Display",Battery could be better.,91
+471,JBL Headphones 20,Headphones,JBL,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",163,"Lightweight, Noise Cancelling",Good value for money.,85
+472,Sennheiser Headphones 21,Headphones,Sennheiser,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",213,"Wireless, Noise Cancelling",Battery could be better.,74
+473,Sennheiser Headphones 22,Headphones,Sennheiser,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",220,"Wireless, Noise Cancelling",Amazing performance!,90
+474,Bose Headphones 23,Headphones,Bose,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",300,"Waterproof, Super AMOLED Display",Good value for money.,75
+475,Sennheiser Headphones 24,Headphones,Sennheiser,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",383,"Lightweight, Noise Cancelling",Battery could be better.,93
+476,Sennheiser Headphones 25,Headphones,Sennheiser,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",131,"Lightweight, Noise Cancelling",Amazing performance!,70
+477,Sennheiser Headphones 26,Headphones,Sennheiser,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",452,"Fast Charging, High Battery Life","High quality, but expensive.",97
+478,Sennheiser Headphones 27,Headphones,Sennheiser,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",136,"Wireless, Noise Cancelling",Battery could be better.,73
+479,Sony Headphones 28,Headphones,Sony,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",195,"Lightweight, Noise Cancelling",Battery could be better.,75
+480,Sony Headphones 29,Headphones,Sony,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",344,"5G Connectivity, Super AMOLED Display",Battery could be better.,90
+481,Sennheiser Headphones 30,Headphones,Sennheiser,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",70,"5G Connectivity, Super AMOLED Display","High quality, but expensive.",89
+482,Sennheiser Headphones 31,Headphones,Sennheiser,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",78,"Lightweight, Noise Cancelling",Amazing performance!,89
+483,Bose Headphones 32,Headphones,Bose,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",245,"Fast Charging, High Battery Life",Good value for money.,72
+484,Sony Headphones 33,Headphones,Sony,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",257,"Wireless, Noise Cancelling",Good value for money.,94
+485,Sony Headphones 34,Headphones,Sony,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",203,"Wireless, Noise Cancelling",Battery could be better.,91
+486,Bose Headphones 35,Headphones,Bose,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",240,"Waterproof, Super AMOLED Display","High quality, but expensive.",92
+487,Sennheiser Headphones 36,Headphones,Sennheiser,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",385,"Lightweight, Noise Cancelling",Good value for money.,86
+488,Bose Headphones 37,Headphones,Bose,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",69,"Waterproof, Super AMOLED Display",Battery could be better.,77
+489,JBL Headphones 38,Headphones,JBL,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",328,"Waterproof, Super AMOLED Display","High quality, but expensive.",99
+490,Sennheiser Headphones 39,Headphones,Sennheiser,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",116,"Wireless, Noise Cancelling",Battery could be better.,81
+491,Sony Headphones 40,Headphones,Sony,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",128,"Wireless, Noise Cancelling",Amazing performance!,84
+492,Bose Headphones 41,Headphones,Bose,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",52,"Lightweight, Noise Cancelling",Amazing performance!,93
+493,Bose Headphones 42,Headphones,Bose,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",146,"5G Connectivity, Super AMOLED Display","High quality, but expensive.",90
+494,Bose Headphones 43,Headphones,Bose,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",221,"Lightweight, Noise Cancelling",Battery could be better.,92
+495,Sony Headphones 44,Headphones,Sony,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",104,"Fast Charging, High Battery Life",Good value for money.,91
+496,Bose Headphones 45,Headphones,Bose,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",152,"Fast Charging, High Battery Life","High quality, but expensive.",76
+497,Sennheiser Headphones 46,Headphones,Sennheiser,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",241,"Waterproof, Super AMOLED Display",Good value for money.,95
+498,Bose Headphones 47,Headphones,Bose,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",203,"Waterproof, Super AMOLED Display",Good value for money.,90
+499,Bose Headphones 48,Headphones,Bose,"40mm Drivers, Active Noise Cancelling, 30-hour Battery",561,"Wireless, Noise Cancelling",Battery could be better.,80
+500,Bose Headphones 49,Headphones,Bose,"Hi-Res Audio, Bluetooth 5.3, Multi-Device Pairing",65,"Wireless, Noise Cancelling","High quality, but expensive.",77
